@@ -1,0 +1,9 @@
+site_name: AC Studio SDK
+site_url: https://docs.augmentedcobotics.com/studio/sdk
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    scheme: youtube
+extra_css:
+  - stylesheets/extra.css
